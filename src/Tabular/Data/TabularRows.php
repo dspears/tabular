@@ -1,4 +1,7 @@
 <?php
+
+namespace Tabular\Data;
+
 /**
  * Class TabularRows - Supports various useful operations on arrays of rows.  The rows might have come from
  * a database read, or from loading a CSV file.  Some of the methods here are for generating PHP source code

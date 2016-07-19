@@ -1,4 +1,7 @@
 <?php
+
+namespace Tabular\Data;
+
 /**
  * Class TabularSet
  *

@@ -1,4 +1,7 @@
 <?php
+
+namespace Tabular\Data;
+
 /**
  * Class TabularTable  - A simple, lightweight query API encapsulating a SQL table, with some useful features built in,
  * such as:

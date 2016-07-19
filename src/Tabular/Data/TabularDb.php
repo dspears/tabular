@@ -1,4 +1,7 @@
 <?php
+
+namespace Tabular\Data;
+
 /**
  * Class TabularDb - Represents a connection to a MySQL database.  You can have multiple of these if you need
  * connections to more  than one DB in your app.

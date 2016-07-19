@@ -1,5 +1,7 @@
 <?php
 
+namespace Tabular\Data;
+
 /**
  * Class TabularCsvFile - Handles reading a CSV file, with a few special options.
  *
